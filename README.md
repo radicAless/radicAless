@@ -15,18 +15,27 @@
 
 <h2>🚀 Languages and Tools I mainly Use</h2>
 <p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.python.org" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.mathworks.com/products/matlab.html" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.tensorflow.org/?hl=it" style="display: inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+  <a target="_blank" href="https://pandas.pydata.org" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+  <a target="_blank" href="https://scikit-learn.org/stable/" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 
 <h2>🚀 Languages and Tools I have also worked with</h2>
 <p>
-  <a target="_blank" href="https://bacinimontani.provincia.tn.it/var/016/storage/images/utilita/strumenti/software/rstudio/344453-1-ita-IT/RStudio_imagefull.png" style="display: inline-block;"><img src="https://bacinimontani.provincia.tn.it/var/016/storage/images/utilita/strumenti/software/rstudio/344453-1-ita-IT/RStudio_imagefull.png" alt="R" width="42" height="42" /></a>
-  <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="NET" width="42" height="42" /></a>  
+  <a target="_blank" href="https://www.r-project.org" style="display: inline-block;">
+    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.djangoproject.com" style="display: inline-block;">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
+  <a target="_blank" href="https://www.java.com/it/" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+  <a target="_blank" href="https://dotnet.microsoft.com/it-it/" style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="NET" width="42" height="42" /></a>  
   <a target="_blank" href="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" style="display: inline-block;"><img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="csharp" width="42" height="42" /></a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="42" height="42" /></a>
 </p>
