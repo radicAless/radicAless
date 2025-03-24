@@ -1,7 +1,7 @@
 <h1>Hello everyone👋, I'm Alessio Radice</h1>
-<p>Finishing my M.Sc in Computer Science</p>
+<p>Just finished my M.Sc in Computer Science</p>
 <p>Interested in Data Analysis, Software Engineering, AI and Bionformatics!</p>
-<p>🔭 I’m currently working on my Master Thesis</p>
+<p>🔭 I’m currently looking for my first job</p>
 <p>🌱 I’m trying to learn some GDScript</p>
 <p>😄 Pronouns: He/Him</p>
 <p>📫 How to reach me: ale.radice96@gmail.com</p>
